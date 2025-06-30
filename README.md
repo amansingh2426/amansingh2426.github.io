@@ -6,11 +6,11 @@ This is my personal portfolio website built using **HTML**, **CSS**, and a bit o
 🔗 **Live Website**: [https://amansingh2426.github.io](https://amansingh2426.github.io)
 
 ![image](https://github.com/user-attachments/assets/ec32726a-b762-4045-ac88-5aa75542f8fd)
-![image](https://github.com/user-attachments/assets/aef13b7b-0c09-47fd-afb7-1265d578370b)
-
-
 
 ---
+
+![image](https://github.com/user-attachments/assets/e3312b41-91ac-4045-9122-128ab930e4f4)
+
 
 ## 📌 Features
 
